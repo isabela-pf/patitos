@@ -15,4 +15,5 @@ and [Contributing Guide](CONTRIBUTING.md) to help you get started.
 
 ## Previous duck days observed
 
+- Wednesday, 2 February, 2022 (posthumously observed)
 - Tuesday, 22 February, 2022
